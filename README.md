@@ -3,4 +3,4 @@ C# Windows Form Demo
 
 
 # In progress Task
-C # uses some simple templates for Windows API
+C# uses some simple templates for Windows API
